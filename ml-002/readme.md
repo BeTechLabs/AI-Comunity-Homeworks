@@ -1,6 +1,5 @@
-# ml-002 (Classification)
-
-## Problems
+# Logitic Regression Homework
+## Homework Problems
 
 - Problem 1: [breast cancer diagnosing](https://www.kaggle.com/uciml/breast-cancer-wisconsin-data) Solution: [link](https://github.com/BeTechLabs/AI-Comunity-Homeworks/tree/master/ml-002/numerical_data_classification(breast_cancer_diagnosis))
 
